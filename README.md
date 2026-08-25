@@ -29,7 +29,7 @@ Architecting the US Stocks platform. Passionate about system design, infrastruct
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=frannajaya&show_icons=true&theme=react&bg_color=0A1628&title_color=00D9FF&icon_color=00D9FF&text_color=A8B5C6&border_color=1A4D6D&hide_border=false" alt="GitHub Stats" height="165" />
+<img src="https://github-stats-extended.vercel.app/api?username=frannajaya&show_icons=true&theme=react&bg_color=0A1628&title_color=00D9FF&icon_color=00D9FF&text_color=A8B5C6&border_color=1A4D6D&hide_border=false" alt="GitHub Stats" height="165" />
 <img src="https://streak-stats.demolab.com/?user=frannajaya&theme=react&background=0A1628&stroke=1A4D6D&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=A8B5C6&currStreakNum=E1E8ED&sideNums=E1E8ED&dates=8B95A5" alt="GitHub Streak" height="165" />
 
 </div>
@@ -42,19 +42,23 @@ Architecting the US Stocks platform. Passionate about system design, infrastruct
 
 **Languages**
 <br/>
-![Go](https://img.shields.io/badge/Go-0A1628?style=flat-square&logo=go&logoColor=00D9FF)
 ![Java](https://img.shields.io/badge/Java-0A1628?style=flat-square&logo=openjdk&logoColor=00D9FF)
 ![Python](https://img.shields.io/badge/Python-0A1628?style=flat-square&logo=python&logoColor=00D9FF)
+![Go](https://img.shields.io/badge/Go-0A1628?style=flat-square&logo=go&logoColor=00D9FF)
+![Node.js](https://img.shields.io/badge/Node.js-0A1628?style=flat-square&logo=nodedotjs&logoColor=00D9FF)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A1628?style=flat-square&logo=typescript&logoColor=00D9FF)
 
 **Infrastructure & Messaging**
 <br/>
 ![Kafka](https://img.shields.io/badge/Kafka-0A1628?style=flat-square&logo=apachekafka&logoColor=00D9FF)
-![gRPC](https://img.shields.io/badge/gRPC-0A1628?style=flat-square&logo=grpc&logoColor=00D9FF)
 ![Docker](https://img.shields.io/badge/Docker-0A1628?style=flat-square&logo=docker&logoColor=00D9FF)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0A1628?style=flat-square&logo=kubernetes&logoColor=00D9FF)
+![gRPC](https://img.shields.io/badge/gRPC-0A1628?style=flat-square&logo=grpc&logoColor=00D9FF)
+![Redis](https://img.shields.io/badge/Redis-0A1628?style=flat-square&logo=redis&logoColor=00D9FF)
 
 **Data**
 <br/>
+![MySQL](https://img.shields.io/badge/MySQL-0A1628?style=flat-square&logo=mysql&logoColor=00D9FF)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A1628?style=flat-square&logo=postgresql&logoColor=00D9FF)
 ![TimescaleDB](https://img.shields.io/badge/TimescaleDB-0A1628?style=flat-square&logo=timescale&logoColor=00D9FF)
 
