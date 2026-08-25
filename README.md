@@ -36,6 +36,16 @@ Architecting the US Stocks platform. Passionate about system design, infrastruct
 
 ---
 
+### 🌆 GitHub Skyline
+
+<div align="center">
+
+![3D Contribution Skyline](./profile-3d-contrib/profile-night-green.svg)
+
+</div>
+
+---
+
 ### 🛠️ Tech Stack
 
 <div align="center">
