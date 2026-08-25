@@ -30,7 +30,6 @@ Architecting the US Stocks platform. Passionate about system design, infrastruct
 <div align="center">
 
 <img src="https://github-stats-extended.vercel.app/api?username=frannajaya&show_icons=true&theme=react&bg_color=0A1628&title_color=00D9FF&icon_color=00D9FF&text_color=A8B5C6&border_color=1A4D6D&hide_border=false" alt="GitHub Stats" height="165" />
-<img src="https://streak-stats.demolab.com/?user=frannajaya&theme=react&background=0A1628&stroke=1A4D6D&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=A8B5C6&currStreakNum=E1E8ED&sideNums=E1E8ED&dates=8B95A5" alt="GitHub Streak" height="165" />
 
 </div>
 
